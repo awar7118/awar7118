@@ -2,7 +2,7 @@
 
 Skills: RUBY / RAILS / JS / HTML / CSS
 
-- 🔭 I’m currently working on ....improving my JavaScript skills and learning React!
+- 🔭 I’m currently working on ....creating a few great react projects!
 - 👯 I’m looking to collaborate on ....any meaningful opensource projects 
 - 🤔 I’m looking for help with ....learning more about web3 
 - 📫 How to reach me: ....on Twitter [@ahmedcod3s](https://twitter.com/ahmedcod3s)  
