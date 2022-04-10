@@ -9,7 +9,7 @@ Skills: RUBY / RAILS / JS / HTML / CSS / REACT
 - ⚡ Fun fact: ....I made the change from construction management in 2022 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='white'>](https://github.com/awar7118)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style = "color: white">](https://www.linkedin.com/in/ahmedwarsama/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' color='white'>](https://twitter.com/ahmedcod3s)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/awar7118)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmedwarsama/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' >](https://twitter.com/ahmedcod3s)  
 
 <!-- Top languages option I can include if needed -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awar7118)](https://github.com/anuraghazra/github-readme-stats) -->
