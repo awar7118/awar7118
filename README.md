@@ -3,10 +3,10 @@
 Skills: RUBY / RAILS / JS / HTML / CSS / REACT
 
 - 🔭 I’m currently working on ....creating a few great react projects!
-- 👯 I’m looking to collaborate on ....any meaningful opensource projects
-- 🤔 I’m looking for help with ....learning more about web3 
+- 🕺🏾 I’m looking to collaborate on ....any meaningful opensource projects
+- 🤔 I’m looking for help with ....landing my first role in the world of tech!
 - 📫 How to reach me: ....on Twitter [@ahmedcod3s](https://twitter.com/ahmedcod3s)  
-- ⚡ Fun fact: ....I made the change from construction management in 2022 
+- ⚡ Fun fact: ....The blob of toothpaste that sits on your toothbrush is called a nurdle 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/awar7118)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmedwarsama/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' >](https://twitter.com/ahmedcod3s)  
