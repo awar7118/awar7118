@@ -2,12 +2,11 @@
 <h1 align="center">    Hi there 👋🏾 , my name is Ahmed Warsama</h1>
 <h3 align="center">A tech lover and recent coding bootcamp graduate looking to learn and work on great products</h3>
 
-- 🔭 I have worked on [Cryptaul (for desktop)](https://github.com/awar7118/rails-cryptaul)
-      as well as [Bed&Bones](https://github.com/Solkarim91/bed_and_bones)
+- 🔭 I have worked on [Cryptaul (for desktop)](https://github.com/awar7118/rails-cryptaul), as well as [Bed&Bones](https://github.com/Solkarim91/bed_and_bones)
 
 - 🌱🕺🏾 I’m currently learning **React** and **node.js** and working on a NFT sniping tool called  **Ivytools**!
 
-- 👯 I’m looking to collaborate on **cool projects, specifically web3/blockchain** any meaningful opensource projects
+- 👯 I’m looking to collaborate on **any meaningful opensource projects** 
 
 - 🔭 I'm currently looking to land my first role in the world of tech!
 
