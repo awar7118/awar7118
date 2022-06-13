@@ -4,7 +4,7 @@
 
 - 🔭 I have worked on [Cryptaul (for desktop)](https://github.com/awar7118/rails-cryptaul), as well as [Bed&Bones](https://github.com/Solkarim91/bed_and_bones)
 
-- 🌱🕺🏾 I’m currently learning **React** and **node.js** and working on a NFT sniping tool called  **Ivytools**!
+- 🌱🕺🏾 I’m currently learning **React** and **node.js** and working on a NFT sniping tool called  **Ivytools**! 🌱
 
 - 👯 I’m looking to collaborate on **any meaningful opensource projects** 
 
