@@ -8,8 +8,6 @@
 
 - 👯 I’m looking to collaborate on **any meaningful opensource projects** 
 
-- 🔭 I'm currently looking to land my first role in the world of tech!
-
 - 📫 How to reach me on Twitter: [@ahmedcod3s](https://twitter.com/ahmedcod3s) 
 
 - 🌍 Keen traveller
