@@ -1,10 +1,10 @@
 
 <h1 align="center">    Hi there 👋🏾 , my name is Ahmed Warsama</h1>
-<h3 align="center">A tech lover and recent coding bootcamp graduate currently working at The Financial Times</h3>
-
-- 🔭 I have worked on [Cryptaul](https://github.com/awar7118/rails-cryptaul) and currently working on a NFT sniping tool called  **Ivytools**! 🌱
+<h3 align="center">A tech lover and recent coding bootcamp graduate</h3>
 
 - 👨🏾‍💻Currently working at [FT](https://github.com/Financial-Times)
+
+- 🔭 I have worked on [Cryptaul](https://github.com/awar7118/rails-cryptaul) and currently working on a NFT analytics tool called  **Ivytools**! 🌱
 
 - 📫 How to reach me on Twitter: [@ahmedcod3s](https://twitter.com/ahmedcod3s) 
 
