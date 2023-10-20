@@ -20,6 +20,13 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
+⚡I've also worked with
+
+<p float="middle">
+<img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
+</p>
+
+
 - 👨🏾‍💻Currently working at [FT](https://github.com/Financial-Times)
   
 - 🔭 I have worked on [Cryptaul](https://github.com/awar7118/rails-cryptaul) and currently working on a NFT analytics tool called  **Ivytools**! 🌱
@@ -39,11 +46,7 @@
 
 <!-- Top languages option I can include if needed -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awar7118)](https://github.com/anuraghazra/github-readme-stats) -->
-⚡I've also worked with
 
-<p float="middle">
-<img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
-</p>
 
 <!--
 **melanierogan/melanierogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
